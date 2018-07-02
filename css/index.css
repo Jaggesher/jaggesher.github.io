@@ -1,0 +1,12 @@
+.about-text{
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.exp-point{
+    font-size: 18px;
+}
+.skill-point{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
